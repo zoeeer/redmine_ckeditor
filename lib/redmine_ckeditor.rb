@@ -14,6 +14,7 @@ module RedmineCkeditor
       @allowed_protocols ||= ckeditor_config[:allowedProtocols] || %w[
         afs aim callto ed2k feed ftp gopher http https irc mailto news
         nntp rsync rtsp sftp ssh tag telnet urn webcal xmpp
+        data
       ]
     end
 

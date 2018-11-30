@@ -1,3 +1,6 @@
 [submodule "app/assets/javascripts/ckeditor-releases"]
 	path = app/assets/javascripts/ckeditor-releases
 	url = git://github.com/ckeditor/ckeditor-releases.git
+[submodule "assets/ckeditor-contrib/plugins/pastebase64"]
+	path = assets/ckeditor-contrib/plugins/pastebase64
+	url = https://github.com/zoeeer/ckeditor-pastebase64.git

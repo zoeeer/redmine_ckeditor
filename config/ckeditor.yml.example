@@ -11,6 +11,7 @@ allowedProtocols:
   - afs
   - aim
   - callto
+  - data
   - ed2k
   - feed
   - ftp
